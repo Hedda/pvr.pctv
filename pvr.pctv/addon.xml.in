@@ -2,7 +2,7 @@
 <addon
   id="pvr.pctv"
   version="1.2.1"
-  name="PCTV Systems Client"
+  name="PCTV Systems PVR Client Addon"
   provider-name="PCTV Systems">
   <requires>
     <c-pluff version="0.1"/>
